@@ -1,0 +1,4 @@
+import string
+
+simbol = "+-/*!&$#?=@"
+code = list(simbol + string.ascii_letters + string.digits)
